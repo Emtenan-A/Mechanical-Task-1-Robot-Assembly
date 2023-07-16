@@ -1,2 +1,2 @@
 # Robot-assembly
-First task for mechanical is assemble the robot
+First task for the mechanical department is assemble the robot
